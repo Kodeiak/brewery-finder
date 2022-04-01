@@ -1,0 +1,17 @@
+* {
+  /* total width = (width - padding - border) + padding + border */
+  box-sizing: border-box;
+}
+
+li {
+  list-style-type: none;
+}
+
+button {
+  width: 300px;
+  text-align: left;
+}
+
+.container {
+  display: flex;
+}
